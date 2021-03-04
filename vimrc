@@ -40,5 +40,5 @@ set laststatus=2
 " Use 256 colours (Use this setting only if your terminal supports 256 colours)
 set t_Co=256
 
-"YAML files from redhad ansible doc (page 62)
+"YAML files from redhat ansible doc (page 62)
 autocmd FileType yaml setlocal ai ts=2 sw=2 et
