@@ -36,3 +36,7 @@ Changed control prefix from ctrl-b to ctrl-a
 ## License
 
 MIT © Michael D. Royer
+
+## Authors
+ 
+ * **Michael D. Royer** - *Initial work*
