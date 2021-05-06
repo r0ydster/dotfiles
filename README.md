@@ -33,6 +33,10 @@ set spacing for yaml files at end of file.
 
 Changed control prefix from ctrl-b to ctrl-a
 
+## .gitconfig
+
+Added .gitconfig with latest updates to aliases.
+
 ## License
 
 MIT © Michael D. Royer
