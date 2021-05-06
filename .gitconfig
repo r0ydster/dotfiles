@@ -1,0 +1,46 @@
+[user]
+	name = r0ydster
+	email = r0ydster@mdrcs.com
+
+[core]
+	editor = vim
+
+[core]
+	ui = auto
+
+[color "branch"]
+	current = yellow bold
+	local = green bold
+	remote = cyan bold
+
+[color "diff"]
+	meta = yellow bold
+	frag = magenta bold
+	old = red bold
+	new = green bold
+	whitespace = red reverse
+
+[color "status"]
+	added = green bold
+	changed = yellow bold
+	untracked = red bold
+
+[diff]
+	tool = vimdiff
+
+[alias]
+	gpumaster = push -u origin master
+	gpumain = push -u origin main
+	gpudev = push -u origin dev
+	st = status
+	br = branch
+	co = checkout
+
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+
+[push]
+	default = simple
